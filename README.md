@@ -19,14 +19,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdellahAjebli&show_icons=true&theme=radical" alt="GitHub stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdellahAjebli&layout=compact&theme=radical" alt="Top languages" width="40%"/>
-</p>
-
----
-
 ### 🚀 About Me
 - 🎓 Engineering student at **EHEIO**
 - 💡 Passionate about **software architecture, APIs, and intelligent systems**
@@ -38,6 +30,6 @@
 ### 📫 Connect with me
 <p align="center">
   <a href="mailto:abdellah.ajebli1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/abdellah-ajebli"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/AbdellahAjebli"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abdellah-ajebli-4a88892a0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/abdellXC"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
